@@ -169,5 +169,4 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Omaka Kalu | Email: (mailto:jusmaks45@gmail.com) 
-
+Omaka Kalu | Email: (jusmaks45@gmail.com) 
